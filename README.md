@@ -10,8 +10,10 @@ Each '.mat' file contains the following variables:
 - PSTHs: Peri-stimulus time histograms with dimensions units × time × trials.
 
 - TimeA: Time used to calculate the PSTHs. 
-TimeA.binsize: binsize to calcualte PSTHs (ms).
-TimeA.time: time points aligned to sample onset (s).
+
+  TimeA.binsize: binsize to calcualte PSTHs (ms).
+
+  TimeA.time: time points aligned to sample onset (s).
 
 - Trials: Trial information and trial-type labels.
 
