@@ -1,4 +1,4 @@
-# Chen_2026_Task-similarity-dependent reconfiguration of compositional modules and geometry in frontal cortex
+# Chen_2026_Task-similarity dependent reconfiguration of compositional modules and geometry in frontal cortex
 
 MATLAB code used for the population activity analyses reported in:
 
@@ -18,7 +18,7 @@ Each '.mat' file contains the following variables for a single recording session
 
 - TimeA: Time used to calculate the PSTHs. 
 
-  TimeA.binsize: binsize to calcualte PSTHs (ms).
+  TimeA.binsize: binsize to calculate PSTHs (ms).
 
   TimeA.time: time points aligned to sample onset (s).
 
