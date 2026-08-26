@@ -1,9 +1,14 @@
-# Chen2026_Task-similarity-frontal-cortex
-Matlab code used for population activity analyses in the manuscript "Task-similarity dependent reconfiguration of compositional modules and geometry in frontal cortex" by Xia Chen, Xiao Yao, Xinxin Yin, and Zengcai V. Guo (2026).
+# Chen_2026_Task-similarity-dependent reconfiguration of compositional modules and geometry in frontal cortex
+
+MATLAB code used for the population activity analyses reported in:
+
+Chen, X., Yao, X., Yin, X., and Guo, Z. V. (2026).
+Task-similarity-dependent reconfiguration of compositional modules and geometry in frontal cortex.
+
+## Data availability
+Single-trial PSTHs for each session analyzed in this study have been deposited in Zenodo and are available upon reasonable request at https://doi.org/10.5281/zenodo.21335457
 
 ## Data structure
-
-Single-trial PSTHs for each session analyzed in this study have been deposited in Zenodo and are available upon reasonable request at https://doi.org/10.5281/zenodo.21335457
 
 All the Matlab code in this repository follows the data structure described below.
 
