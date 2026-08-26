@@ -3,9 +3,11 @@ Matlab code used for population activity analyses in the manuscript "Task-simila
 
 ## Data structure
 
+Single-trial PSTHs for each session analyzed in this study have been deposited in Zenodo and are available upon reasonable request at https://doi.org/10.5281/zenodo.21335457
+
 All the Matlab code in this repository follows the data structure described below.
 
-Each '.mat' file contains the following variables:
+Each '.mat' file contains the following variables for a single recording session:
 
 - PSTHs: Peri-stimulus time histograms with dimensions units × time × trials.
 
